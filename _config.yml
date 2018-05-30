@@ -1,11 +1,11 @@
 
 title: 蓝徵羽
 desctiption: 蓝徵羽 - since 2017.
-url: https://lanzhiyu.github.io/
+url: https://lanybass.github.io/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/lanzhiyu"
+baseurl: "/"
 full-version: "http://webjeda.com/karna-full/"
 
 sass:
