@@ -12,6 +12,4 @@ author: lanybass
 
 欢度六一 ^_^
 
-![蓝徵羽]({{site.baseurl}}/special/stories/goplay.jpg)
-
-<i class="fa fa-play-circle-o" aria-hidden="true"></i>
+[![故事目录]({{site.baseurl}}/special/stories/goplay.jpg)]({{site.baseurl}}/stories/)
