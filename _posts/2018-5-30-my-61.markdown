@@ -3,14 +3,15 @@ layout: post
 title:  "蓝徵羽的第一个6.1儿童节"
 description: 听"蓝徵羽的故事集".点击箭头进入
 date:   2018-5-30
-categories: Me
+categories: 
 img: 2018-5-30.jpg
-categories: [one, two]
 color: 1976D2
 author: lanybass
 ---
 [听"蓝徵羽的故事集"]({{site.baseurl}}/stories/)
+
 欢度六一 ^_^
 
-![蓝徵羽]({{site.baseurl}}/images/2018-5-30.jpg)
+![蓝徵羽]({{site.baseurl}}/special/stories/goplay.jpg)
 
+<i class="fa fa-play-circle-o" aria-hidden="true"></i>
