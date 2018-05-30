@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "蓝徵羽的第一个6.1儿童节"
-description: [听"蓝徵羽的故事集".点击进入]({{site.baseurl}}/stories/)
+description: 听"蓝徵羽的故事集".点击箭头进入
 date:   2018-5-30
 categories: Me
 img: 2018-5-30.jpg
