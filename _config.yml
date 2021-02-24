@@ -3,6 +3,7 @@ title: 蓝徵羽
 desctiption: 蓝徵羽 - since 2017.
 url: https://lanybass.github.io/
 permalink: ':title/'
+_site: '_site'
 
 markdown: kramdown
 baseurl: "/"
