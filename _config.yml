@@ -6,7 +6,7 @@ permalink: ':title/'
 _site: '_site'
 
 markdown: kramdown
-baseurl: "/"
+baseurl: ""
 
 sass:
     style: compressed
